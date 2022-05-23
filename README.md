@@ -395,15 +395,3 @@ The total supply for STK is increased when rewards are distributed, and this tes
        });
 ```
 
-
-
-# Conclusion
-
-A staking and rewards mechanism is a powerful incentive tool that only needs to be as complex as we want to make it. The methods provided in the ERC20 standard and SafeMath allows us to code it in about 200 lines of sparse code. 
-
-Please feel free to use the code in[ our public github](https://github.com/HQ20/StakingToken) for your own purposes, or to[ contact us](https://www.techhq.io/#GetinTouch) if you would like our help to implement a production version of this pattern.
-
-
-# Thanks
-
-Thanks to [Vlad Fărcaş](https://www.linkedin.com/in/vladsilviufarcas/) for inspiring some of this code, to [Sergio Pereira](https://www.linkedin.com/in/sergiomcpereira/) and [Tiago Martins](https://www.linkedin.com/in/temmartins/) for their reviews for publication and especially to [Bernardo Vieira](https://www.linkedin.com/in/obernardovieira/) for teaching me how to do real world blockchain applications.
